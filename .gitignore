@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# VSCode / PyCharm / IDE specific
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
